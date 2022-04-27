@@ -1,0 +1,17 @@
+{
+    "name": "yuwaka/kalkulator",
+    "description": "kalkulator sederhana",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Yuwaka\\Kalkulator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "yuwaka"
+        }
+    ],
+    "require": {}
+}
